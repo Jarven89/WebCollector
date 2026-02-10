@@ -366,13 +366,6 @@ Element contentElement = ContentExtractor.getContentElementByHtml(html);
 Element contentElement = ContentExtractor.getContentElementByUrl(url);
 ```
 
-## WeChat Group
-
-<p align="center">
-  <img width="400"  src="http://cdn.zhuanzhi.ai/other/wc_wx2.jpg">
-</p>
-
-
 
 
 <!--
@@ -381,4 +374,9 @@ Element contentElement = ContentExtractor.getContentElementByUrl(url);
 
 + [中文文档](https://github.com/CrawlScript/WebCollector/blob/master/README.zh-cn.md)
 -->
+
+## Related Projects
+
++ __🐈 MMClaw:__ The Ultra-Lightweight, Pure Python Kernel for Multimodal AI Agents. URL: [https://github.com/CrawlScript/MMClaw](https://github.com/CrawlScript/MMClaw).
+
 
